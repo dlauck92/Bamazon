@@ -1,0 +1,25 @@
+{
+  "name": "drew-lauck",
+  "version": "1.0.0",
+  "main": "SQL/top5000connection.js",
+  "dependencies": {
+    "inquirer": "^6.2.1",
+    "mysql": "^2.16.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dlauck92/day2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dlauck92/day2/issues"
+  },
+  "homepage": "https://github.com/dlauck92/day2#readme",
+  "keywords": [],
+  "description": ""
+}
