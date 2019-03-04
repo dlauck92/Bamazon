@@ -1,4 +1,4 @@
-# Bamazon
+# Bamazon - https://dlauck92.github.io/Bamazon/
 
 Using Node.js and SQL, I created a program that will read a database and 
 
